@@ -111,9 +111,7 @@ footer {
 @import "general";
 ```
 
-- touch public/stylesheets/style.css
-- find Eric Meyer reset and paste the entire reset into style.css
-
 - in the terminal run the command npm run dev
+- you will see that this will generate a style.css when you go to the browser to view it.
 
 
