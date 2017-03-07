@@ -1,6 +1,14 @@
 # sassSetup
 g41 exercise for setting up sass
 
+fork and clone this repo
+create and checkout a new branch with your initials as part of the name
+run through these instructions to setup sass locally. 
+Once setup, look up the sass docs on nesting and variables. 
+Add some of your own variables
+Use the example on http://sass-lang.com/guide to do a nested nav
+Once you have made your changes, submit a pull request.
+
 Instructions for sass...
 
 - express --git --hbs --css sass
@@ -103,5 +111,7 @@ footer {
 
 - touch public/stylesheets/style.css
 - find Eric Meyer reset and paste the entire reset into style.css
+
+- in the terminal run the command npm run dev
 
 
