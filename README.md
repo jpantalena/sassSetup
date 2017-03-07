@@ -3,11 +3,13 @@ g41 exercise for setting up sass
 
 fork and clone this repo
 create and checkout a new branch with your initials as part of the name
-run through these instructions to setup sass locally. 
-Once setup, look up the sass docs on nesting and variables. 
-Add some of your own variables
-Use the example on http://sass-lang.com/guide to do a nested nav
-Once you have made your changes, submit a pull request.
+run through these instructions to setup sass locally.
+Remember to make regular git commits as you make progress.
+Once your project is setup via the steps below and you have it running locally...
+- look up the sass docs on nesting and variables. 
+- Add some of your own variables
+- Use the example on http://sass-lang.com/guide to do a nested nav
+- Once you have made your changes, submit a pull request and show one of the instructors your work.
 
 Instructions for sass...
 
